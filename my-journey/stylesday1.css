@@ -1,6 +1,67 @@
 
 
-div {
-  color: darkorange;
+/* class selectors */
+
+.text, .text2 {
+  color: red;
 }
 
+/* id selectors */
+
+#word {
+  color: blueviolet;
+}
+
+/* chaining selectors */
+
+.subsection.header {
+  color: saddlebrown;
+}
+
+/* how to do the color style */
+
+.color {
+  color: seagreen;
+}
+
+/* how to do the background color style */
+
+.background {
+  background-color: brown;
+  color: white;
+}
+
+/* how to choose the font family style */
+
+.fontfamily {
+  background-color: sandybrown;
+  color: black;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+/* how to do the font size */
+
+.fontsize {
+  font-size: 50px;
+}
+
+/* how to do the font weight style*/
+
+.fontweight {
+  font-weight: bold;
+}
+
+/* how to do the text align */
+
+.textalign {
+  background-color: red;
+  color:antiquewhite;
+  text-align: center;
+}
+
+/* image and height */
+
+img {
+  height: auto;
+  width: auto;
+}
