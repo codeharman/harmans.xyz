@@ -1,25 +1,49 @@
+
+/* The below ones applies to all */
+
 * {
   background-color: #ecebe4;
 }
 
+/* Container is the main container background for all the elements */
 
+/* Please note this one I'm trying for my learings too that I can
+make the box which holds all the elements with in it */
+
+.container-1  {
+  background-color: #daddd8;
+  margin: 20px;
+  padding: 20px;
+
+}
+
+/* The heading content goes here */
 
 .h1 {
   color: #1c1c1c;
   background-color: #daddd8;
-  text-align: center;
-  border: 1px solid rgb(183, 181, 181);
   font-family: Helvetica, sans-serif;
   margin: 60px;
   padding: 10px;
-  height: 40px;
-  width: 100px;
+  height: 20px;
+  width: 85%;
 }
 
-.container {
+/* paragraph contents goes here */
+
+.p1, .ul1 {
+  color:#1c1c1c;
   background-color: #daddd8;
-  border: 2px;
-  width: 90%;
-  height: 90%;
-  margin: auto;
+  font-family: Helvetica, sans-serif;
+  margin: 60px;
+  padding: 10px;
+
+}
+
+/* unordered list starts from here */
+
+.li1 {
+  color:#1c1c1c;
+  background-color: #daddd8;
+  font-family: Helvetica, sans-serif;
 }
