@@ -1,0 +1,25 @@
+* {
+  background-color: #ecebe4;
+}
+
+
+
+.h1 {
+  color: #1c1c1c;
+  background-color: #daddd8;
+  text-align: center;
+  border: 1px solid rgb(183, 181, 181);
+  font-family: Helvetica, sans-serif;
+  margin: 60px;
+  padding: 10px;
+  height: 40px;
+  width: 100px;
+}
+
+.container {
+  background-color: #daddd8;
+  border: 2px;
+  width: 90%;
+  height: 90%;
+  margin: auto;
+}
